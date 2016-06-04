@@ -1,0 +1,3 @@
+Name:	exam1:	exam2: exam3:
+Bob:	40.0	70.0    40.0
+Alice:	80.0	101.0    100
